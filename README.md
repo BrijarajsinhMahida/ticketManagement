@@ -41,7 +41,7 @@ Interactive Ticket Management System built with Node.js, Express, React, and Red
 1. **Clone the repository:**
    ```bash
    git clone <your-repo-url>
-   cd ticket_management
+   cd ticketManagement
    ```
 
 2. **Backend Setup:**
